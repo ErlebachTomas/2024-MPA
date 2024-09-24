@@ -2,10 +2,6 @@
 
 Tento repozitář obsahuje ukázkové kódy z hodin programování v jazyce Kotlin.
 
-## Shrnutí
-
-Kotlin je moderní programovací jazyk vyvinutý společností JetBrains, který běží na Java Virtual Machine (JVM) a je plně interoperabilní s Javou. Kotlin kombinuje objektově orientované a funkcionální prvky, což umožňuje psát kód jednodušeji, bezpečněji a efektivněji.
-
 ## Doporučené výukové materiály
 
 ### Oficiální dokumentace
