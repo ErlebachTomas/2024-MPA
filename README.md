@@ -1,6 +1,6 @@
 # Ukázkové kódy z hodin programování v Kotlinu
 
-Tento repozitář obsahuje ukázkové kódy z hodin programování v jazyce Kotlin.
+Tento repozitář obsahuje ukázkové kódy z hodin programování v jazyce Kotlin pro vývoj mobilních aplikací určených pro Android. 
 
 ## Doporučené výukové materiály
 
